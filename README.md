@@ -11,7 +11,7 @@ Coder un jeu de morpion en POO.
 <ul>
   <li>Clonez le git : $ git clone git@github.com:RubyDaRosess/ruby-morpion.git</li>
   <li>Installez tout ce qu'il faut pour runner tout ça avec 'bundle install'</li>
-  <li>Lancez le programme avec 'ruby' et y a plus qu'à</li>
+  <li>Lancez le programme avec 'ruby TicTacToe.rb' et y a plus qu'à</li>
 </ul>
 
 
