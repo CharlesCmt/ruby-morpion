@@ -1,5 +1,5 @@
 <h1>morpion-ruby  </h1>
-Réalisé par RubyDaRosess & adespesse
+<strong>Réalisé par RubyDaRosess & adespesse</strong>
 
 
 <h2>Mission</h2>
